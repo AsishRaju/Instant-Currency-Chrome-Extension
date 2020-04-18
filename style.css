@@ -1,0 +1,33 @@
+body
+{
+    min-width: 250px;
+    min-height: 320px;
+    background-color: #1b262c;
+}
+
+.currencyListFrom{
+    background-color: #bbe1fa;
+    color: #1b262c;
+    width: 200px;
+}
+
+.currencyListTo{
+    background-color: #bbe1fa;
+    color: #1b262c;
+    width: 200px;
+
+}
+select,input {  text-align-last:center; }
+
+.amountInput{
+    background-color: #bbe1fa;
+    color: #1b262c;
+    width: 200px;
+
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    text-align: center;
+    color:#1b262c !important;
+    opacity: 0.5; /* Firefox */
+  }
