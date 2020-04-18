@@ -8,11 +8,7 @@ const badge = document.querySelector('.space')
 var amount,from,to,convString,excValue,fromSymbol,toSymbol
 var firstTime=true
 
-function isInt(value) {
-    return !isNaN(value) && 
-           parseInt(Number(value)) == value && 
-           !isNaN(parseInt(value, 10));
-  }
+
 
 
   Number.prototype.toFixedNoRounding = function(n) {
