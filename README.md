@@ -2,7 +2,7 @@
  A handy chrome extension to covert any currency to your local currency Instantly! 💲
 
 ### Add to your chrome [here]!
-```bash
+```
 Do Rate ⭐ and send in Reviews 😄
 ```
 
@@ -22,12 +22,28 @@ Do Rate ⭐ and send in Reviews 😄
 - with better userbase will shift api to premium service
 - adding more info on rate falcuations
 - support for cryptocurrency
-
 ## How To Contribute🤝 
+```
+Entry point to code is popup.html
+```
 - Yes,it is open source you can clone and change code to your need.
 - Most of the code is self explanatory, anyhow
 - for any clarification on code or want to contribute contact 
 - [Gmail] / [Twitter] /[LinkedIn]
+
+## Sidenote 📄
+- This whole project took around 8+hrs to make which include
+```
+- Learning to make chrome extension
+- Searching for best api
+- Designing UI and testing
+- Coding the business logic 
+```
+- Publishing chrome extension to web store isnt free and fast 
+- It costs $5 to make a developer account and almost 3-4 days of review time based on the type of extension you make
+- Chrome Developer program follows a strict programming guidelines and a must for all extension to follow them, its likely to be **rejected** if not followed
+- Your reviews and rating would definately help me to do more projects like this 😊 
+- Drop your suggestion or any project idea you would like to share with me . **Thanks :)**
 
 [Gmail]: <mailto:vashish888@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/asish-raju-7a0b90192>
