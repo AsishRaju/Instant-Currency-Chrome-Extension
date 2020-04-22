@@ -2,6 +2,9 @@
  A handy chrome extension to covert any currency to your local currency Instantly! 💲
 
 ### Add to your chrome [here]!
+```bash
+Do Rate ⭐ and send in Reviews 😄
+```
 
 ## Overview 👀
 <img src="gitres/5.png">
@@ -29,4 +32,4 @@
 [Gmail]: <mailto:vashish888@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/asish-raju-7a0b90192>
 [Twitter]: <https://twitter.com/vashish888>
-[here]:<>
+[here]:<https://chrome.google.com/webstore/detail/instant-currency/lffbfebdjpoenhgcefjhmhjaidkkclno>
